@@ -1,0 +1,303 @@
+Scraped Book Data - 2025-01-24 09:26:07
+==================================================
+
+Title: The Hunger Games (The Hunger Games, #1)
+Author: Suzanne Collins
+------------------------------
+Title: Harry Potter and the Order of the Phoenix (Harry Potter, #5)
+Author: J.K. Rowling
+------------------------------
+Title: Pride and Prejudice
+Author: Jane Austen
+------------------------------
+Title: To Kill a Mockingbird
+Author: Harper Lee
+------------------------------
+Title: The Book Thief
+Author: Markus Zusak
+------------------------------
+Title: Twilight (The Twilight Saga, #1)
+Author: Stephenie Meyer
+------------------------------
+Title: Animal Farm
+Author: George Orwell
+------------------------------
+Title: J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings
+Author: J.R.R. Tolkien
+------------------------------
+Title: The Chronicles of Narnia (The Chronicles of Narnia, #1-7)
+Author: C.S. Lewis
+------------------------------
+Title: The Fault in Our Stars
+Author: John Green
+------------------------------
+Title: The Picture of Dorian Gray
+Author: Oscar Wilde
+------------------------------
+Title: The Giving Tree
+Author: Shel Silverstein
+------------------------------
+Title: Wuthering Heights
+Author: Emily Brontë
+------------------------------
+Title: Gone with the Wind
+Author: Margaret Mitchell
+------------------------------
+Title: The Lightning Thief (Percy Jackson and the Olympians, #1)
+Author: Rick Riordan
+------------------------------
+Title: The Perks of Being a Wallflower
+Author: Stephen Chbosky
+------------------------------
+Title: Jane Eyre
+Author: Charlotte Brontë
+------------------------------
+Title: The Little Prince
+Author: Antoine de Saint-Exupéry
+------------------------------
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+------------------------------
+Title: The da Vinci Code (Robert Langdon, #2)
+Author: Dan    Brown
+------------------------------
+Title: Crime and Punishment
+Author: Fyodor Dostoevsky
+------------------------------
+Title: Alice’s Adventures in Wonderland / Through the Looking-Glass
+Author: Lewis Carroll
+------------------------------
+Title: Divergent (Divergent, #1)
+Author: Veronica Roth
+------------------------------
+Title: Memoirs of a Geisha
+Author: Arthur Golden
+------------------------------
+Title: Les Misérables
+Author: Victor Hugo
+------------------------------
+Title: The Alchemist
+Author: Paulo Coelho
+------------------------------
+Title: Lord of the Flies
+Author: William Golding
+------------------------------
+Title: Anne of Green Gables (Anne of Green Gables, #1)
+Author: L.M. Montgomery
+------------------------------
+Title: Romeo and Juliet
+Author: William Shakespeare
+------------------------------
+Title: The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)
+Author: Douglas Adams
+------------------------------
+Title: City of Bones (The Mortal Instruments, #1)
+Author: Cassandra Clare
+------------------------------
+Title: The Help
+Author: Kathryn Stockett
+------------------------------
+Title: Dracula
+Author: Bram Stoker
+------------------------------
+Title: Charlotte’s Web
+Author: E.B. White
+------------------------------
+Title: Ender’s Game (Ender's Saga, #1)
+Author: Orson Scott Card
+------------------------------
+Title: Of Mice and Men
+Author: John Steinbeck
+------------------------------
+Title: Fahrenheit 451
+Author: Ray Bradbury
+------------------------------
+Title: Brave New World
+Author: Aldous Huxley
+------------------------------
+Title: The Catcher in the Rye
+Author: J.D. Salinger
+------------------------------
+Title: One Hundred Years of Solitude
+Author: Gabriel García Márquez
+------------------------------
+Title: A Thousand Splendid Suns
+Author: Khaled Hosseini
+------------------------------
+Title: 1984
+Author: George Orwell
+------------------------------
+Title: The Princess Bride
+Author: William Goldman
+------------------------------
+Title: Little Women (Little Women, #1)
+Author: Louisa May Alcott
+------------------------------
+Title: The Outsiders
+Author: S.E. Hinton
+------------------------------
+Title: The Secret Garden
+Author: Frances Hodgson Burnett
+------------------------------
+Title: The Time Traveler's Wife
+Author: Audrey Niffenegger
+------------------------------
+Title: A Game of Thrones (A Song of Ice and Fire, #1)
+Author: George R.R. Martin
+------------------------------
+Title: Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)
+Author: J.K. Rowling
+------------------------------
+Title: Harry Potter and the Deathly Hallows (Harry Potter, #7)
+Author: J.K. Rowling
+------------------------------
+Title: A Wrinkle in Time (Time Quintet, #1)
+Author: Madeleine L'Engle
+------------------------------
+Title: The Odyssey
+Author: Homer
+------------------------------
+Title: Frankenstein: The 1818 Text
+Author: Mary Wollstonecraft Shelley
+------------------------------
+Title: The Kite Runner
+Author: Khaled Hosseini
+------------------------------
+Title: The Giver (The Giver, #1)
+Author: Lois Lowry
+------------------------------
+Title: The Handmaid’s Tale (The Handmaid's Tale, #1)
+Author: Margaret Atwood
+------------------------------
+Title: Where the Wild Things Are
+Author: Maurice Sendak
+------------------------------
+Title: Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)
+Author: J.K. Rowling
+------------------------------
+Title: The Lovely Bones
+Author: Alice Sebold
+------------------------------
+Title: Green Eggs and Ham
+Author: Dr. Seuss
+------------------------------
+Title: The Adventures of Huckleberry Finn
+Author: Mark Twain
+------------------------------
+Title: Dune (Dune, #1)
+Author: Frank Herbert
+------------------------------
+Title: Life of Pi
+Author: Yann Martel
+------------------------------
+Title: A Tale of Two Cities
+Author: Charles Dickens
+------------------------------
+Title: Lolita
+Author: Vladimir Nabokov
+------------------------------
+Title: Slaughterhouse-Five
+Author: Kurt Vonnegut Jr.
+------------------------------
+Title: Water for Elephants
+Author: Sara Gruen
+------------------------------
+Title: The Bell Jar
+Author: Sylvia Plath
+------------------------------
+Title: Matilda
+Author: Roald Dahl
+------------------------------
+Title: The Stand
+Author: Stephen        King
+------------------------------
+Title: Catch-22
+Author: Joseph Heller
+------------------------------
+Title: The Girl with the Dragon Tattoo (Millennium, #1)
+Author: Stieg Larsson
+------------------------------
+Title: The Adventures of Sherlock Holmes (Sherlock Holmes, #3)
+Author: Arthur Conan Doyle
+------------------------------
+Title: The Pillars of the Earth (Kingsbridge, #1)
+Author: Ken Follett
+------------------------------
+Title: Rebecca
+Author: Daphne du Maurier
+------------------------------
+Title: Watership Down (Watership Down, #1)
+Author: Richard  Adams
+------------------------------
+Title: Great Expectations
+Author: Charles Dickens
+------------------------------
+Title: Outlander (Outlander, #1)
+Author: Diana Gabaldon
+------------------------------
+Title: The Color Purple
+Author: Alice Walker
+------------------------------
+Title: Anna Karenina
+Author: Leo Tolstoy
+------------------------------
+Title: One Flew Over the Cuckoo’s Nest
+Author: Ken Kesey
+------------------------------
+Title: My Sister’s Keeper
+Author: Jodi Picoult
+------------------------------
+Title: The Fellowship of the Ring (The Lord of the Rings, #1)
+Author: J.R.R. Tolkien
+------------------------------
+Title: The Brothers Karamazov
+Author: Fyodor Dostoevsky
+------------------------------
+Title: And Then There Were None
+Author: Agatha Christie
+------------------------------
+Title: A Tree Grows in Brooklyn
+Author: Betty  Smith
+------------------------------
+Title: A Clockwork Orange
+Author: Anthony Burgess
+------------------------------
+Title: The Road
+Author: Cormac McCarthy
+------------------------------
+Title: To Kill a Mockingbird
+Author: Harper Lee
+------------------------------
+Title: It
+Author: Stephen        King
+------------------------------
+Title: The Shining (The Shining, #1)
+Author: Stephen        King
+------------------------------
+Title: The Golden Compass (His Dark Materials, #1)
+Author: Philip Pullman
+------------------------------
+Title: Vampire Academy (Vampire Academy, #1)
+Author: Richelle Mead
+------------------------------
+Title: Siddhartha
+Author: Hermann Hesse
+------------------------------
+Title: The Complete Stories and Poems
+Author: Edgar Allan Poe
+------------------------------
+Title: Angela’s Ashes (Frank McCourt, #1)
+Author: Frank McCourt
+------------------------------
+Title: Interview with the Vampire (The Vampire Chronicles, #1)
+Author: Anne Rice
+------------------------------
+Title: Don Quixote
+Author: Miguel de Cervantes Saavedra
+------------------------------
+Title: The Old Man and the Sea
+Author: Ernest Hemingway
+------------------------------
+Title: The Poisonwood Bible
+Author: Barbara Kingsolver
+------------------------------

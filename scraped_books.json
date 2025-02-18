@@ -1,0 +1,402 @@
+[
+    {
+        "title": "The Hunger Games (The Hunger Games, #1)",
+        "author": "Suzanne Collins"
+    },
+    {
+        "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+        "author": "J.K. Rowling"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak"
+    },
+    {
+        "title": "Twilight (The Twilight Saga, #1)",
+        "author": "Stephenie Meyer"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell"
+    },
+    {
+        "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "title": "The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",
+        "author": "C.S. Lewis"
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "title": "The Giving Tree",
+        "author": "Shel Silverstein"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë"
+    },
+    {
+        "title": "Gone with the Wind",
+        "author": "Margaret Mitchell"
+    },
+    {
+        "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+        "author": "Rick Riordan"
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky"
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë"
+    },
+    {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "title": "The da Vinci Code (Robert Langdon, #2)",
+        "author": "Dan    Brown"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky"
+    },
+    {
+        "title": "Alice’s Adventures in Wonderland / Through the Looking-Glass",
+        "author": "Lewis Carroll"
+    },
+    {
+        "title": "Divergent (Divergent, #1)",
+        "author": "Veronica Roth"
+    },
+    {
+        "title": "Memoirs of a Geisha",
+        "author": "Arthur Golden"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo"
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho"
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding"
+    },
+    {
+        "title": "Anne of Green Gables (Anne of Green Gables, #1)",
+        "author": "L.M. Montgomery"
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare"
+    },
+    {
+        "title": "The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+        "author": "Douglas Adams"
+    },
+    {
+        "title": "City of Bones (The Mortal Instruments, #1)",
+        "author": "Cassandra Clare"
+    },
+    {
+        "title": "The Help",
+        "author": "Kathryn Stockett"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker"
+    },
+    {
+        "title": "Charlotte’s Web",
+        "author": "E.B. White"
+    },
+    {
+        "title": "Ender’s Game (Ender's Saga, #1)",
+        "author": "Orson Scott Card"
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury"
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez"
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell"
+    },
+    {
+        "title": "The Princess Bride",
+        "author": "William Goldman"
+    },
+    {
+        "title": "Little Women (Little Women, #1)",
+        "author": "Louisa May Alcott"
+    },
+    {
+        "title": "The Outsiders",
+        "author": "S.E. Hinton"
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett"
+    },
+    {
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger"
+    },
+    {
+        "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+        "author": "George R.R. Martin"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",
+        "author": "J.K. Rowling"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+        "author": "J.K. Rowling"
+    },
+    {
+        "title": "A Wrinkle in Time (Time Quintet, #1)",
+        "author": "Madeleine L'Engle"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer"
+    },
+    {
+        "title": "Frankenstein: The 1818 Text",
+        "author": "Mary Wollstonecraft Shelley"
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini"
+    },
+    {
+        "title": "The Giver (The Giver, #1)",
+        "author": "Lois Lowry"
+    },
+    {
+        "title": "The Handmaid’s Tale (The Handmaid's Tale, #1)",
+        "author": "Margaret Atwood"
+    },
+    {
+        "title": "Where the Wild Things Are",
+        "author": "Maurice Sendak"
+    },
+    {
+        "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+        "author": "J.K. Rowling"
+    },
+    {
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold"
+    },
+    {
+        "title": "Green Eggs and Ham",
+        "author": "Dr. Seuss"
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain"
+    },
+    {
+        "title": "Dune (Dune, #1)",
+        "author": "Frank Herbert"
+    },
+    {
+        "title": "Life of Pi",
+        "author": "Yann Martel"
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens"
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov"
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut Jr."
+    },
+    {
+        "title": "Water for Elephants",
+        "author": "Sara Gruen"
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath"
+    },
+    {
+        "title": "Matilda",
+        "author": "Roald Dahl"
+    },
+    {
+        "title": "The Stand",
+        "author": "Stephen        King"
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller"
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+        "author": "Stieg Larsson"
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",
+        "author": "Arthur Conan Doyle"
+    },
+    {
+        "title": "The Pillars of the Earth (Kingsbridge, #1)",
+        "author": "Ken Follett"
+    },
+    {
+        "title": "Rebecca",
+        "author": "Daphne du Maurier"
+    },
+    {
+        "title": "Watership Down (Watership Down, #1)",
+        "author": "Richard  Adams"
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens"
+    },
+    {
+        "title": "Outlander (Outlander, #1)",
+        "author": "Diana Gabaldon"
+    },
+    {
+        "title": "The Color Purple",
+        "author": "Alice Walker"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "title": "One Flew Over the Cuckoo’s Nest",
+        "author": "Ken Kesey"
+    },
+    {
+        "title": "My Sister’s Keeper",
+        "author": "Jodi Picoult"
+    },
+    {
+        "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky"
+    },
+    {
+        "title": "And Then There Were None",
+        "author": "Agatha Christie"
+    },
+    {
+        "title": "A Tree Grows in Brooklyn",
+        "author": "Betty  Smith"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess"
+    },
+    {
+        "title": "The Road",
+        "author": "Cormac McCarthy"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee"
+    },
+    {
+        "title": "It",
+        "author": "Stephen        King"
+    },
+    {
+        "title": "The Shining (The Shining, #1)",
+        "author": "Stephen        King"
+    },
+    {
+        "title": "The Golden Compass (His Dark Materials, #1)",
+        "author": "Philip Pullman"
+    },
+    {
+        "title": "Vampire Academy (Vampire Academy, #1)",
+        "author": "Richelle Mead"
+    },
+    {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse"
+    },
+    {
+        "title": "The Complete Stories and Poems",
+        "author": "Edgar Allan Poe"
+    },
+    {
+        "title": "Angela’s Ashes (Frank McCourt, #1)",
+        "author": "Frank McCourt"
+    },
+    {
+        "title": "Interview with the Vampire (The Vampire Chronicles, #1)",
+        "author": "Anne Rice"
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "title": "The Poisonwood Bible",
+        "author": "Barbara Kingsolver"
+    }
+]
